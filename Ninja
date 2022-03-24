@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rok Murnik | Facebook</title>
+    <meta name="description" content="opis spletne strani">
+    <meta name="keywords" content="html, basic, learning">
+    <title>Facebook</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<h1><i>FACEBOOK</i></h1>
+<p>Zdravo to je moja prva spletna stran</p>
+
+  <form class="iskalnik" action="action_page.php">
+  <input type="text" placeholder="Search.." name="search">
+  <button type="submit"><i class="fa fa-search"></i></button>
+</form>
+
+<br>
+
+<h2>Rok Murnik</h2>
+<img src="img/jst.jpg">
+<br>
+<br>
+
+<button>Add a friend</button>
+<br>
+
+<p><strong>City:</strong> Vienna</p>
+<p><strong>Age:</strong> 22+</p>
+<p><strong>Education:</strong>Faculty of Organization Science</p>
+<p><strong>Hobby:</strong> sleeping</p>
+<p><strong>FB friends:</strong> 3548654846</p>
+<p><strong>FB enemies:</strong> -15</p>
+</body>
+</html>
